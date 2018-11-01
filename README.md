@@ -1,5 +1,5 @@
 # ArquiteturaBackEndApiPagamento
-Projeto criado como resulução do exercício 03 da aula 03 da disciplina Arquitetura de Backend e Microsserviços do curso de pós-graduação de Arquitetura de Softwares Distribuídos e, requisitado pelo professor Marco Mendes.
+Projeto criado como resolução do exercício 03 da aula 03 da disciplina Arquitetura de Backend e Microsserviços do curso de pós-graduação de Arquitetura de Softwares Distribuídos e, requisitado pelo professor Marco Mendes.
 
 Este projeto possibilita informar dados para um pagamento informado através da API [ArquiteturaBackEndApiLivraria](https://github.com/otavioreis/ArquiteturaBackEndApiLivraria), dado um número de cartão ele retorna um booleano informando se a transação foi válida.
 
